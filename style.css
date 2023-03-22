@@ -1,0 +1,32 @@
+.div1{
+    width: 100px;
+    height: 700px;
+    border: 5px solid red;
+    position:absolute;
+}
+
+.div2{
+    width: 100px;
+    height: 700px;
+    border: 5px solid red;
+    position:absolute;
+    left: 150px;
+}
+
+.div3{
+    width: 100px;
+    height: 700px;
+    border: 5px solid red;
+    position:absolute;
+    left: 300px;
+}
+
+.div4{
+    width: 100px;
+    height: 700px;
+    border: 5px solid red;
+    position:absolute;
+    left: 450px;
+}
+
+
